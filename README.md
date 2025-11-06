@@ -3,9 +3,9 @@
 
 { ## 🌍 ./ Languages // Langues / }
 
-> ✅ Anglais / ENG
+> ✅ / ENG / < Anglais > 
 
-> ✅ Français / FR
+> ✅ / FR / < Français >
 
 " ⚠️ Traductions générées par IA (pas réécrites à la main) / TRAD IA : OPENAI "
 
